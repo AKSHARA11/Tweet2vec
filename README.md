@@ -12,7 +12,7 @@ Python 3.x
 
 > sudo pip3 install gensim
 
-> '<addr>' sudo pip3 install scikit-learn
+> sudo pip3 install scikit-learn
 
 > sudo apt-get install python3-matplotlib
 
